@@ -10,7 +10,7 @@
     "deploy": "node ./node_modules/vue-gh-pages/index.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "firebase": "^5.7.2",
     "firebaseui": "^3.5.1",
     "vue": "^2.5.17",
